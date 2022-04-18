@@ -400,7 +400,7 @@ transform: translate(-50%, -50%);
     max-width: 450px;
     width: 100%;
     height: 100%;
-    background-color: var(--mainColor);
+    background-color: #a0e8eb;
     z-index: 95;
     display: flex;
     align-items: center;
