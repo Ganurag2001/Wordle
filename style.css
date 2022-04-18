@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
+#a7e9ed
+
 .head{
   margin-top: -8%
 }
@@ -24,7 +26,7 @@
 .light {
   --mainColor: blue;
   --hoverColor: #5bacdf;
-  --backgroundColor: #f1f8fc;
+  --backgroundColor: #a0e8eb;
   --darkOne: #312f3a;
   --darkTwo: #45424b;
   --lightOne: #919191;
@@ -240,7 +242,6 @@ header .container {
   font-size: 30px;
   /* position: relative; */
   letter-spacing: 2px;
-  padding: 10px 20px;
   border-radius: 5px;
   transition: 0.3s;
   transition-property: background;
@@ -269,7 +270,6 @@ transform: translate(-50%, -50%);
   font-size: 30px;
   /* position: relative; */
   letter-spacing: 2px;
-  padding: 10px 20px;
   border-radius: 5px;
   transition: 0.3s;
   transition-property: background;
@@ -297,7 +297,6 @@ transform: translate(-50%, -50%);
   font-size: 30px;
   /* position: relative; */
   letter-spacing: 2px;
-  padding: 10px 20px;
   border-radius: 5px;
   transition: 0.3s;
   transition-property: background;
